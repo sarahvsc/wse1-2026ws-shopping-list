@@ -3,3 +3,6 @@ birnen
 bier
 kuchen
 eis
+chips
+kaese
+wurst
