@@ -7,3 +7,5 @@ eis
 chips
 kaese
 wurst
+tomaten
+paprika
