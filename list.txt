@@ -3,6 +3,7 @@ orangen
 birnen
 bier
 kuchen
+bananen
 eis
 chips
 kaese
