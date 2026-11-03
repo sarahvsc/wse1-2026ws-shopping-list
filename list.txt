@@ -1,4 +1,6 @@
 toast
+baguette
+semmeln
 aepfel
 orangen
 kekse
