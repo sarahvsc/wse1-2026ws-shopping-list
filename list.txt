@@ -1,3 +1,5 @@
+baguette
+semmeln
 aepfel
 orangen
 kekse
