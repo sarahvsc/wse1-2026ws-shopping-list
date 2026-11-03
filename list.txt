@@ -12,3 +12,4 @@ wurst
 tomaten
 paprika
 salat
+brot
