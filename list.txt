@@ -4,9 +4,6 @@ birnen
 bier
 kuchen
 eis
-  -kalt
-  -warm
-  -normal
 chips
 kaese
 wurst
